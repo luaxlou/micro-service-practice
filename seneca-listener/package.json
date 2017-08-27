@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "seneca": "^3.4.2",
     "seneca-amqp-transport": "^2.2.0"
   }
 }
