@@ -1,1 +1,1 @@
-docker build -t seneca-listener .
+/usr/local/bin/docker build -t seneca-listener .
