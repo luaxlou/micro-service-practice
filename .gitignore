@@ -1,0 +1,4 @@
+.idea/
+seneca-listener/node_modules
+seneca-client/node_modules
+jenkins/jenkins_home
