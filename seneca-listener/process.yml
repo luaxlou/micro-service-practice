@@ -3,6 +3,3 @@ apps:
     name     : 'seneca-listener'
     exec_mode: 'cluster'
     instances: 1
-    env      :
-          NODE_ENV: 'development'
-          AMQP_URL: '192.168.99.1:5672'
