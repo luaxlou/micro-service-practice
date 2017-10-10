@@ -1,0 +1,1 @@
+AMQP_URL=192.168.99.1:5672 node index.js

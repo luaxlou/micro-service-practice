@@ -2,7 +2,7 @@
 'use strict';
 
 const client = require('seneca')()
-    .use('..')
+    .use('seneca-amqp-transport')
     .client({
         type: 'amqp',
         pin: 'cmd:salute',
