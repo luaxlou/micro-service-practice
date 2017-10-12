@@ -2,6 +2,7 @@ apps:
   - script   : 'index.js'
     name     : 'seneca-listener'
     exec_mode: 'cluster'
+    watch    : true
     instances: 2
     env      :
       NODE_ENV: 'development'

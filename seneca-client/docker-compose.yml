@@ -1,4 +1,0 @@
-version: '3'
-services:
-  seneca-listener:
-    image: "192.168.99.1:5000/seneca-listener:latest"

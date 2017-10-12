@@ -2,6 +2,7 @@
 
 const Path = require('path');
 
+
 require('seneca')()
     .use('seneca-amqp-transport')
     .add('cmd:salute', function(message, done) {
