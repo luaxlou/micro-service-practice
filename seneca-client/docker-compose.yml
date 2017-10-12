@@ -1,6 +1,6 @@
 version: '3'
 services:
-  listener:
+  client:
     build: .
     volumes:
       - .:/usr/src/app
